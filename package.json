@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Liam Leppards Portfolio Website",
   "author": "Liam Leppard",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
