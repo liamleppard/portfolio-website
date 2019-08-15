@@ -5,9 +5,9 @@
 </template>
 
 <style>
-@import url('https://fonts.googleapis.com/css?family=Nunito+Sans&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Nunito+Sans&display=swap");
 html {
-  font-family: 'Nunito Sans', sans-serif;
+  font-family: "Nunito Sans", sans-serif;
   font-size: 16px;
   word-spacing: 1px;
   -ms-text-size-adjust: 100%;
